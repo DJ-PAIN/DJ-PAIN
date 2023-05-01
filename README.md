@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 💬 Ask me about **OpenRecV2**
+- 💬 Ask me about **OpenRecV2**(https://github.com/DJ-PAIN/OpenRecv2)
 
 - ⚡ Fun fact **My name "Brahman" is the is the Hindu god of creation**
 
