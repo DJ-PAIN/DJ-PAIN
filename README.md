@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brahman</h1>
-<h3 align="center">Im a devolper of OpenRecv2!</h3>
+<h3 align="center">Im a developer of OpenRecv2!</h3>
 
 - 🔭 I’m currently working on [OpenRecV2.JS](https://github.com/DJ-PAIN/OpenRecV2-JS)
 
