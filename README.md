@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **My name "Brahman" is the is the Hindu god of creation**
 
-- I dont use github for open source stuff tbh do most of my stuff is not open :(**
+- I try and make my stuff Open but if its not.. sucks to suck ig**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
