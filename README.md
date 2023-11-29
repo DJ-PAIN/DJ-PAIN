@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Brahman</h1>
 <h3 align="center">I <3 Turkey</h3>
 
-- 🔭 I’m currently working on [OpenRecV2.JS](https://github.com/DJ-PAIN/OpenRecV2-JS)
+- 🔭 I’m currently working on [OldRecRoom]
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 💬 Ask me about **OpenRecV2**(https://github.com/DJ-PAIN/OpenRecv2)
+- 💬 Ask me about **OldRecRoom**
 
 - ⚡ Fun fact **My name "Brahman" is the is the Hindu god of creation**
 
-- I try and make my stuff Open but if its not.. sucks to suck ig**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
