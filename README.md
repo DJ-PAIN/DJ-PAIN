@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brahman</h1>
 
 
-- 🔭 I’m currently working on [OldRecRoom]
+- 🔭 I’m currently working on [ SecureLink-Ethernet-Connector.]
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently relearning **Python**
 
-- 💬 Ask me about **OldRecRoom**
+- 💬 Ask me about **SecureLink**
 
 - ⚡ Fun fact **My name "Brahman" is the is the Hindu god of creation**
 
