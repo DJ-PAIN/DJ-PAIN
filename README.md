@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20856
-Fork on GitHub6442
+
 <h1 align="center">Hi I'm Brahman</h1>
 <h3 align="center">A backend developer</h3>
 
