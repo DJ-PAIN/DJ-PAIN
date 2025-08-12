@@ -1,5 +1,5 @@
 # yo im mya
-🔭 I’m currently working on tons of random projects <br>👯 I’m looking to collaborate on API Servers, And cool websites <br>🌱 I’m currently learning C#<br>follow me please :D
+🔭 I’m currently working on tons of random projects <br>👯 I’m looking to collaborate on API Servers, And cool websites <br>🌱 I’m currently learning Rust Lang<br>follow me please :D
 
 
 ## 🌐 Socials:
